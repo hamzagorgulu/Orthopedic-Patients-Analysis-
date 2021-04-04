@@ -1,4 +1,4 @@
-# Orthopedic-Patients-Analysis-
+# Orthopedic patients data analysis with Biomechanical features
 Each patient is represented in the data set by six biomechanical attributes derived from the shape and orientation of the pelvis and lumbar spine (each one is a column):
 
 pelvic incidence
